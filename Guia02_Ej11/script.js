@@ -6,9 +6,7 @@ function palabraMasLarga(frase) {
         if (palabraMasLarga.length < array[i].length) {
             palabraMasLarga = array[i];
         }
-
     }
-
     return palabraMasLarga;
 }
 
