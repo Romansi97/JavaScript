@@ -23,7 +23,6 @@ function CompararTextos(valores) {
     } else {
         console.log("Ambos textos son igual de largos.");
     };
-
 }
 
 function TrueOFalse(valores) {
